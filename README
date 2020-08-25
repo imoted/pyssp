@@ -3,6 +3,11 @@ pyssp
 
 python speech signal processing library for education.
 
+add Sh script
+--------------
+
+cd pyssp/tools/
+./clean_wav.sh xxxxxxx.wav  (the file wants to clean up the noise)
 
 AUTHOR
 -------
